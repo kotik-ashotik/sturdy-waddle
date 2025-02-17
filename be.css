@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://animeargentina.net/wp-content/uploads/2023/04/Blue-Exorcist-temporada-2-Kyoto-Saga.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+div{
+    background-color: orange;
+    width: 700px;
+    border: 5px solid orangered ;
+    margin: auto;
+    padding: 10px;
+    img{
+        width: 100%;
+    }
+}

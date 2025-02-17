@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/fma-2003.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+div{
+    background-color: grey;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    img{
+        width: 100%;
+    }
+    
+}

@@ -1,0 +1,52 @@
+body {
+  background-image: url(https://uchi.imgix.net/general/anime2.png?crop=focalpoint&domain=uchi.imgix.net&fit=crop&fm=pjpg&fp-x=0.5&fp-y=0.5&h=558&ixlib=php-3.3.1&q=82&usm=20&w=992);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.c1 {
+  background-color: black;
+  width: 700px;
+  margin-left: 20px;
+  padding: 20px;
+  border: 2px solid rgb(0, 81, 255);
+  img {
+    height: 500px;
+    width: 100%;
+    border: 3px solid red;
+  }
+  h1 {
+    color: #fff;
+  }
+}
+.c2 {
+    background-color: blue;
+    width: 500px   ;
+    margin-left: 20px;
+    padding: 20px;
+    border: 2px solid rgb(0, 81, 255);
+    img {
+      height: 700px;
+      width: 100%;
+      border: 3px solid red;
+    }
+    h1 {
+      color: #fff;
+    }
+  }
+  .c3 {
+    background-color: rgb(255, 89, 0);
+    width: 700px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 2px solid rgb(0, 81, 255);
+    img {
+      height: 6%;
+      width: 100%;
+      border: 3px solid red;
+    }
+    h1 {
+      color: #fff;
+    }
+  }

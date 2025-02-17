@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://lh6.googleusercontent.com/CF19bkN1O3hAwOMkyJqL9Wwj2Dqd2yZMotG-aoihTkn1kzkzrKM1hcuIkT8GbGSX-QodxLFYvzDR2qO7m8tK8pTA9gKd9imXzxDrcEzY5o6sAWDpGMxgig5J8luiErcbvByJY8hCecuBSqMTvm3uVA);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div {
+    background-color: grey;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    img {
+        width: 100%;
+    }
+}
